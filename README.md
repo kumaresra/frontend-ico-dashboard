@@ -1,6 +1,5 @@
-# Jincor Investor Dashboard Frontend
+# ICO Dashboard Frontend
 
-[![Build Status](https://travis-ci.org/JincorTech/frontend-supreme-happiness.svg?branch=develop)](https://travis-ci.org/JincorTech/frontend-supreme-happiness)
 
 ### Scripts
 
@@ -16,4 +15,3 @@
 
 ______________________________
 
-[Jincor Tech](https://github.com/JincorTech)
